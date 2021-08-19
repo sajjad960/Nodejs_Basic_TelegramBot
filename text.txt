@@ -1,0 +1,2 @@
+bot -> t.me/yoyoBasicbot.
+token -> 1949627012:AAG7EXp1WTnoYHGXxtOpmoa8kkmNXFzINfo

@@ -1,0 +1,16 @@
+{
+  "name": "node-js-bot1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon bot.js"
+  },
+  "author": "Sajjad",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.12",
+    "telegraf": "^3.32.0"
+  }
+}
